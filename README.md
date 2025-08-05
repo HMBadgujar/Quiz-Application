@@ -1,7 +1,9 @@
 ❓ Interactive Quiz Platform
+
 A dynamic and responsive quiz application built with vanilla HTML, CSS, and JavaScript. This platform provides an engaging way for users to test their knowledge on various subjects, receive instant feedback on their answers, and get a detailed analysis of their results.
 
 ✨ Features
+
 Interactive Quizzes: Take quizzes directly in your web browser with a clean and intuitive interface.
 
 Instant Feedback: Know immediately whether your answer is correct or incorrect.
