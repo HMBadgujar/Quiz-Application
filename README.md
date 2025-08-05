@@ -4,23 +4,23 @@ A dynamic and responsive quiz application built with vanilla HTML, CSS, and Java
 
 # ✨ Features
 
-Interactive Quizzes: Take quizzes directly in your web browser with a clean and intuitive interface.
+1. Interactive Quizzes: Take quizzes directly in your web browser with a clean and intuitive interface.
 
-Instant Feedback: Know immediately whether your answer is correct or incorrect.
+2. Instant Feedback: Know immediately whether your answer is correct or incorrect.
 
-Score Calculation: Your score is updated in real-time as you progress through the quiz.
+3. Score Calculation: Your score is updated in real-time as you progress through the quiz.
 
-Results Summary: After completing the quiz, view a detailed summary of your performance, including your final score and a list of correct and incorrect answers.
+4. Results Summary: After completing the quiz, view a detailed summary of your performance, including your final score and a list of correct and incorrect answers.
 
-Responsive Design: The application is fully responsive and works seamlessly on desktops, tablets, and mobile devices.
+5. Responsive Design: The application is fully responsive and works seamlessly on desktops, tablets, and mobile devices.
 
 # 💻 Technologies Used
 
-HTML5: For the structure and content of the application.
+1. HTML5: For the structure and content of the application.
 
-CSS3: For styling, layout, and animations.
+2. CSS3: For styling, layout, and animations.
 
-JavaScript (ES6+): For the application's logic, interactivity, and dynamic content.
+3. JavaScript (ES6+): For the application's logic, interactivity, and dynamic content.
 
 # 🚀 Getting Started
 
